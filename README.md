@@ -1,4 +1,5 @@
 ##  Very ✨ special ✨ lad
+## Naftali Caplan - Education: GWHS, Northeastern University
 
 <!--
 **NaftaliCaplan/NaftaliCaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
