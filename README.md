@@ -6,7 +6,7 @@ Computer Science student at **Northeastern University**. I build full-stack appl
 
 ## Projects
 
-### 🔧 ADR Manager — TC Annotation Layer
+### ADR Manager — TC Annotation Layer
 > VS Code Extension · TypeScript · Open Source · CS 4530
 
 Contributed to an open-source VS Code extension for managing Architectural Decision Records (MADRs). As part of a 5-person intensive, I owned the data layer that every other track depended on.
@@ -26,7 +26,7 @@ Contributed to an open-source VS Code extension for managing Architectural Decis
 
 ---
 
-### 🍳 CookYourBooks
+###  CookYourBooks
 > Full-Stack Desktop App · Java · JavaFX · CS 3100
 
 Recipe management application built in a 4-person team. Includes recipe storage, ingredient scaling, collection management, and a cook mode with step-by-step instructions to lead you through.
@@ -64,4 +64,4 @@ Recipe management application built in a 4-person team. Includes recipe storage,
 
 ## Contact
 
-📧 caplan.naf@northeastern.edu &nbsp;·&nbsp; [GitHub](https://github.com/NaftaliCaplan)
+caplan.naf@northeastern.edu &nbsp;·&nbsp; [GitHub](https://github.com/NaftaliCaplan)
