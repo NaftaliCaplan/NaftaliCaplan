@@ -1,6 +1,6 @@
-# Hi, I'm Naftali(Tali) Caplan
+# Hi, I'm Naftali (Tali) Caplan
 
-Computer Science student at **Northeastern University**. I build full-stack applications, developer tools, and am looking into expanding into other projects. I really enjoy design phases and getting to shape an application before the code, and then once programing works I enjoy working more backend and developing data layers.
+Computer Science student at **Northeastern University**. I build full-stack applications, developer tools, and am looking to expand into other projects. I really enjoy the design phase and once programming is underway I enjoy working backend and developing data layers.
 
 ---
 
@@ -18,21 +18,21 @@ Contributed to an open-source VS Code extension for managing Architectural Decis
 - Built `validateTcAnnotation()` — validates all 6 TC field types with per-field error messages consumed by the UI layer
 - Added `tc-schema-version` stamping for future migration support and real-world compatibility testing against JabRef's 60-file ADR corpus
 - Fixed all test fixture incompatibilities introduced by the MADR 2.x → 4.0 grammar migration
-- **78 tests passing** across 4 test suites (parser, validator, real-repo compatibility, utils)
+- **82 tests passing** across 4 test suites (parser, validator, real-repo compatibility, utils)
 
 **Stack:** `TypeScript` `js-yaml` `ANTLR4` `Jest` `VS Code Extension API`
 
-[View Repository →](https://github.com/OwenSweetman/SummerSchool_MADR)
+[View Repository →](https://github.com/OwenSweetman/SummerSchool_MADR) &nbsp;·&nbsp; [VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=NaftaliCaplan.tc-adr-manager)
 
 ---
 
-###  CookYourBooks
+### CookYourBooks
 > Full-Stack Desktop App · Java · JavaFX · CS 3100
 
-Recipe management application built in a 4-person team. Includes recipe storage, ingredient scaling, collection management, and a cook mode with step-by-step instructions to lead you through.
+Recipe management application built in a 4-person team. Includes recipe storage, ingredient scaling, collection management, and a cook mode with step-by-step instructions.
 
 **What I built:**
-- **Live timer** — designed and implemented the timer as a first-class instruction field: editable in the recipe editor, persisted in the data model, and can be started, and paused, and displayed as a live countdown during cook mode
+- **Live timer** — designed and implemented the timer as a first-class instruction field: editable in the recipe editor, persisted in the data model, and can be started, paused, and displayed as a live countdown during cook mode
 - **Cook mode UI** — built the step-through interface with active timer integration, letting users step through recipe instructions one at a time
 - **Recipe editor** — full-stack implementation of the edit flow including GUI form state and persistence layer
 
@@ -56,9 +56,8 @@ Recipe management application built in a 4-person team. Includes recipe storage,
 
 ## Currently
 
-- Finishing the TC annotation project
+- Beginning design of a Colorblind Cook Assistant
 - Building out this portfolio
-- Begining Design of Colorblind Cook Assistant
 
 ---
 
